@@ -14,7 +14,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.9.1
 	github.com/onsi/gomega v1.27.4
 	github.com/pborman/uuid v1.2.1
-	github.com/pelletier/go-toml v1.7.0
+	github.com/pelletier/go-toml v1.9.5
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/net v0.10.0
 	google.golang.org/grpc v1.51.0
