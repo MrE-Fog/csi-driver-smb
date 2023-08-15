@@ -10,7 +10,7 @@ require (
 	github.com/container-storage-interface/spec v1.7.0
 	github.com/golang/protobuf v1.5.3
 	github.com/kubernetes-csi/csi-lib-utils v0.13.0
-	github.com/kubernetes-csi/csi-proxy/client v1.0.1
+	github.com/kubernetes-csi/csi-proxy/client v1.1.2
 	github.com/onsi/ginkgo/v2 v2.9.1
 	github.com/onsi/gomega v1.27.4
 	github.com/pborman/uuid v1.2.1
